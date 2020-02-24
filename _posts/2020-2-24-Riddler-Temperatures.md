@@ -5,7 +5,7 @@ title: Riddler Express - Farenheit to Celsius
 
 {% include mathjax.html %}
 
-The Riddler Express puzzle for this week involves finding temperatures that, when converted from Farenheit to Celsius, are mirror images of each other i.e: $$61 \degree F$ and $16 \degree C$$.
+The Riddler Express puzzle for this week involves finding temperatures that, when converted from Farenheit to Celsius, are mirror images of each other i.e: $$61 \degree F$$ and $$16 \degree C$$.
 A more complete explanation can be found [here](https://fivethirtyeight.com/features/can-you-flip-your-way-to-victory/).
 
 In essence, we are looking for solutions to the following equation:
